@@ -3,7 +3,7 @@
 For our 6-7 year old Friday Night Lights flag football team.
 Rules source: [`Documents/FNL-Rules-Reference.md`](Documents/FNL-Rules-Reference.md). Every rule cited below is `(Ref §X)` = section of that file.
 
-**One formation. Three plays. Two base defenses — FORT (man) and FENCE (zone), starting with FORT. That is the whole book.**
+**One formation. Four plays. Two base defenses — FORT (man) and FENCE (zone), starting with FORT. That is the whole book.**
 
 ---
 
@@ -14,10 +14,11 @@ Rules source: [`Documents/FNL-Rules-Reference.md`](Documents/FNL-Rules-Reference
 3. [Play 1 — BLUE SWEEP](#3-play-1--blue-sweep)
 4. [Play 2 — GOLD GHOST](#4-play-2--gold-ghost)
 5. [Play 3 — BLUE BUBBLE](#5-play-3--blue-bubble)
-6. [How to Teach These](#6-how-to-teach-these)
-7. [Starting Base Defense: FORT (Man Coverage)](#7-starting-base-defense-fort-man-coverage)
-8. [Alternate Defense: FENCE (2-3-1 Zone)](#8-alternate-defense-fence-2-3-1-zone)
-9. [FORT vs. FENCE — Which to Call](#9-fort-vs-fence--which-to-call)
+6. [Play 4 — GOLD DART](#6-play-4--gold-dart)
+7. [How to Teach These](#7-how-to-teach-these)
+8. [Starting Base Defense: FORT (Man Coverage)](#8-starting-base-defense-fort-man-coverage)
+9. [Alternate Defense: FENCE (2-3-1 Zone)](#9-alternate-defense-fence-2-3-1-zone)
+10. [FORT vs. FENCE — Which to Call](#10-fort-vs-fence--which-to-call)
 
 ---
 
@@ -47,6 +48,7 @@ We flip the cones every time we change ends, so **BLUE always means "run at the 
 | **SWEEP** | Run wide and outside, fast. |
 | **GHOST** | Fake one way, give it back the other way. |
 | **BUBBLE** | Short catch behind the line, then run. |
+| **DART** | Fake the run, then throw it downfield, fast and true. |
 
 ### Why we chose this convention
 
@@ -54,7 +56,7 @@ We flip the cones every time we change ends, so **BLUE always means "run at the 
 - **"Left" and "right" sound alike at a distance** and both have a hard "t" sound. **"Blue"** and **"Gold"** share no sounds at all — one syllable each, totally different mouth shape. You can shout them across a field.
 - **Two words only.** A 6-year-old can hear it, repeat it, and hold it for the 30 seconds we have to snap the ball (Ref §4).
 - **The name is the assignment.** "BLUE SWEEP" already tells the ball carrier where and how.
-- Every action word starts with a **different letter and sound** — S, G, B — so no two calls blur together.
+- Every action word starts with a **different letter and sound** — S, G, B, D — so no two calls blur together.
 
 ### Rule for naming NEW plays later
 
@@ -62,7 +64,7 @@ We flip the cones every time we change ends, so **BLUE always means "run at the 
 > The new action word must be: **one or two syllables**, **start with a letter we are not already using**, and **describe the ball's path, not a person's name**.
 > Never add a third word. Never add a number.
 
-So the same play to the other side is free: **GOLD SWEEP**, **BLUE GHOST**, **GOLD BUBBLE**. Learning three plays gets us six calls.
+So the same play to the other side is free: **GOLD SWEEP**, **BLUE GHOST**, **GOLD BUBBLE**, **BLUE DART**. Learning four plays gets us eight calls.
 
 ---
 
@@ -296,7 +298,111 @@ Both **BLUE WIDE** and **GOLD WIDE** run the identical route on every play: rele
 
 ---
 
-## 6. How to Teach These
+## 6. Play 4 — GOLD DART
+
+**Type: PASS (play-action).** The hardest play in the book, and it only exists because we already run BLUE SWEEP, GOLD GHOST, and the 5-step IN route on every snap. **Do not install this before the run game is reliable.** It is installed **LAST** — see §7.
+
+### Why "DART"
+
+The action word starts with **D** — unused (S, G, B are taken by SWEEP, GHOST, BUBBLE). **DART** is one syllable, sounds nothing like the other three when shouted across a field, and it describes the ball's path: a dart thrown fast and true downfield, after everyone believes it's a run. Per our naming rule, the new action word describes the ball's path, not a person (§1).
+
+### The concept in one sentence
+
+**GOLD DART looks exactly like GOLD GHOST for its first two steps, then the QB stops faking and throws to a receiver on his 5-step IN route instead of completing the handoff.**
+
+### Play-action mechanic — it must be indistinguishable from GOLD GHOST
+
+- The **snap, the QB's first step (open to the blue cone, fake to Blue Back), and the Blue Back's empty-handed sell** are **identical, step for step, to GOLD GHOST** (§4). This is the entire point: if the defense can tell GOLD DART from GOLD GHOST before the ball is out, the play is already dead.
+- The difference happens on the QB's **second step**, the moment he would spin and hand to the Gold Back in GOLD GHOST. Instead of completing that handoff, the QB **plants, brings the ball up, and throws** — there is **no real mesh point at all** this time; the Gold Back's job is to sell the mesh with his body exactly as if he is about to receive it, then release.
+- **This is a fake handoff, not a handoff.** No ball ever changes hands to the Gold Back. That distinction matters directly for the defensive rush rule — see the Rules Compliance section below.
+
+### GOLD DART diagram
+
+```
+   BLUE SIDELINE          ^  UPFIELD / DOWNFIELD  ^          GOLD SIDELINE
+   |                      ^   (toward end zone)    ^                     |
+   |             +--[BW]--+                +--[GW]--+                   |
+   |            /   5 steps, then break IN   5 steps, then break IN  \   |
+   |          [BW]                                              [GW]    |
+   |           ^                                    ^  <-- fine dash:    |
+   |           :                                    :      THROW HERE   |
+   |    ------------------- LINE OF SCRIMMAGE -------------------        |
+   |                            (QB)  <- hand-to-hand snap               |
+   |                          [BB][GB]  <- tight split backs             |
+   |     ^ ^ ^                            . . .                         |
+   |     ^ ^ ^ <--fake--[BB]        [GB] sells mesh, NO handoff,         |
+   |   (empty hands,   fake on step 1   releases as checkdown/safety     |
+   |    keep running)  to BLUE side     valve on step 2 instead of       |
+   |                                     taking a ball that never comes  |
+   |                                                                     |
+   |   QB plants on step 2 (same spot GOLD GHOST hands off),             |
+   |   comes up throwing a fine-dash pass ( . . . ) to GOLD WIDE         |
+   |   on his 5-step IN cut. BLUE WIDE is the same throw mirrored        |
+   |   if the fake instead pulls defenders to the GOLD side.             |
+```
+
+*Dashed `- - -` in earlier diagrams marks a fake/motion ball path; the fine dash `. . .` here marks the actual forward pass, per our diagram conventions (§2, "Diagram conventions").*
+
+### Assignments (one sentence each)
+
+- **CENTER:** Hike the ball **up into the QB's hands** between your legs, then run five steps ahead and turn to help underneath if nobody else is open.
+- **QB:** Take the snap and run the **exact GOLD GHOST fake** — open to blue, fake to Blue Back on step 1 — but on step **2**, instead of handing to the Gold Back, **plant, come up, and throw** to GOLD WIDE on his in-cut; **check the corner who chased the fake first** (see "The Throw" below), throw the checkdown to the Gold Back if both wides are covered, and **throw it away or run it out of bounds** if nobody is open — never eat the fake into a sack.
+- **BLUE BACK:** Run the identical empty-handed sell you use on GOLD GHOST — **sprint like you have the ball**, because the whole play depends on you looking real.
+- **GOLD BACK:** Sell the mesh with the QB exactly like you're about to take the handoff, then **release outside as the checkdown** — you are the safety valve, not a decoy who stands still.
+- **BLUE WIDE:** Run the same **5-step IN** you run on every play — you are the **outlet/mirror target** if the fake instead pulls the defense toward the gold side.
+- **GOLD WIDE:** Run the same **5-step IN** you run on every play — you are the **primary target**, arriving on your break right as the QB comes up throwing.
+
+### The throw — primary receiver and the binary rule
+
+**Coach's request was "pass to the blue or gold receiver" — at 6-7 years old a two-way progression read is not coachable.** So we make it a single binary decision, decided by what the fake did, not by scanning both receivers:
+
+- **Primary receiver: GOLD WIDE.** The play is built off the GOLD GHOST fake, which sends the Blue Back (decoy) toward the **blue** cone. A defense that bites on that fake tends to flow toward the **blue** side — which is exactly the side **away** from GOLD WIDE, clearing his in-cut. **Default call: throw GOLD WIDE.**
+- **One-look rule for the other receiver:** *before the snap*, the QB is taught one simple visual check: **"Look at the Gold cornerback's feet. If he is already cheating toward the middle or the blue side before the snap, throw BLUE WIDE instead — the fake will pull him even further out of position on that side."** This is a **pre-snap read, not a live progression** — the QB picks his target before the ball is snapped and does not change his mind mid-play. Binary, coachable, one look, done.
+- **Checkdown:** If neither wide receiver is open (both corners sat at home, or a hawk/linebacker dropped into the throwing lane), the QB's checkdown is the **Gold Back releasing to the flat** — a short, safe, low-risk throw that mirrors BLUE BUBBLE's soft toss.
+- **Bail-out:** If nobody — not GOLD WIDE, not BLUE WIDE, not the Gold Back — is open, **throw the ball away out of bounds, or run straight out of bounds if a running lane is open.** An incomplete throwaway is a loss of down; a sack, a scramble, or holding the ball past 7 seconds is worse. **We never risk the pass clock to force a throw** (Ref §8).
+
+### Rules compliance — verified and cited
+
+- **7-second pass clock (Ref §8): the fake must fit inside it, with room to spare.** Counted out: snap (0:00) → QB's first step and fake to Blue Back (~1 second) → QB's second step, plant (~1 more second, ~2 seconds total) → throw released (~3 seconds total). That leaves a **4-second cushion** inside the 7-second clock even before the ball is thrown — plenty of margin for a QB who hesitates or has to go through the one-look check. **Coaching point: if the QB is still holding the ball at a 4-count out loud, throw it away — do not wait for 7.**
+- **QB may not run on a snap-and-go (Ref §6, §0.1):** GOLD DART never has the QB running with the ball. His only ball actions are catch-the-snap, fake, and throw. The bail-out is "throw it away," not "tuck and run" — the QB is not a legal runner off this snap, full stop.
+- **Forward pass thrown from behind the line of scrimmage (Ref §6, §8):** the QB's plant-and-throw spot on step 2 is the **same depth as the GOLD GHOST handoff spot**, which is well behind the line of scrimmage. He never advances upfield before releasing the ball, so there is no illegal-forward-pass risk (illegal forward pass = 5 yards and loss of down, Ref §8, §11).
+- **One player in motion only (Ref §7):** GOLD DART uses **no pre-snap motion at all** — everyone is set at the snap, same as BLUE SWEEP and GOLD GHOST. This sidesteps the motion rule entirely rather than risk an illegal-motion penalty (Ref §11) on our hardest play.
+- **One foot inbounds for a completion (Ref §7):** GOLD WIDE and BLUE WIDE must complete their in-cut and stay off the sideline the same way they're taught on every other play — drift wide on the break and an otherwise-good throw is incomplete.
+- **Rushers start 7+ yards off the line (Ref §9) — the fake buys real time, but only for the rush that hasn't been triggered yet:** because BLITZ/MIKE starts 7 yards deep, he is still closing that distance while the QB's 2-step fake-and-throw happens, which is exactly why the timing above works. **⚠️ Rules note the packet does not resolve:** Ref §9 states the 7-yard rush restriction on non-rushing line defenders ends **"once the ball is handed off."** GOLD DART's defining feature is that **the ball is never handed off** — it is faked. The reference packet is **silent** on whether a *fake* handoff releases non-rushing defenders (HAWKS/LINE) to cross the line of scrimmage the same way a real handoff does. We are **not assuming an answer either way** here: until confirmed with the league/referees, **we coach our own HAWKS/LINE defenders to treat a fake handoff as still "the ball is in the QB's hands"** (i.e., they must hold their line-of-scrimmage restriction through the fake, since the ball demonstrably has not left the QB's possession) — but we flag this explicitly as an item to confirm, exactly as Ref §16 already flags similar snap/rush ambiguities. **This also cuts both ways against us:** if an opposing coach's defenders are coached to read "handoff action = go," GOLD DART may draw defenders across the line early on the fake, which could put our own receivers into contact sooner than expected. Coach GOLD WIDE and BLUE WIDE to expect a defender arriving at the top of the break, not open grass.
+- **No-run zones (Ref §6, §17):** GOLD DART is a **pass**, so it is not subject to the no-run-zone restriction — it is in fact **one of our legal options inside a no-run zone**, alongside BLUE BUBBLE. Because it is our lowest-percentage pass, **BLUE BUBBLE remains the first choice in a no-run zone**; GOLD DART is a second option there only after the defense is sitting hard on BLUE BUBBLE.
+
+### When to call it
+
+- **Only after BLUE SWEEP and GOLD GHOST have both been established in a game** — the defense must already be flowing on run fakes for the play-action to mean anything. Calling this cold, before the defense respects the run, is calling our hardest play with none of its setup paid for.
+- Best as a change-up on 2nd or 3rd down after the defense has started crowding the line against GOLD GHOST specifically.
+- **Not** a base call — this is a surprise play, not a rotation play. Call it sparingly.
+
+### What makes it fail
+
+- **The fake looks different from GOLD GHOST.** If the QB's first two steps are even slightly off-tempo or off-depth from the real GOLD GHOST fake, a disciplined defense (especially man corners who are taught to watch their receiver, not the backfield — see FORT, §8) will not bite, and the in-route receiver runs into a covered defender instead of open grass.
+- **The QB holds the ball past the fake, hunting for a better look.** This is a one-look, binary-read play. Hesitating past the pre-snap decision burns the 7-second clock for no benefit.
+- **The Gold Back stops selling the mesh and just watches.** A back who doesn't sell the fake handoff tips the whole play the instant the defense sees him stand still instead of run.
+- **Forcing the throw into a covered receiver instead of taking the checkdown or throwing it away.** This is the single most common way young QBs turn our hardest play into a turnover.
+- **Low completion probability generally** — see the honesty note below.
+
+### Coaching point
+
+**"Same first two steps as GOLD GHOST — then plant, look Gold, throw."** To the QB: **"Fake it, plant it, one look, throw it — or throw it away."** To GOLD WIDE: **"Same 5 steps, same break you already know — this time the ball is actually coming."** To the Gold Back: **"Sell it like you've got it, then get open — you're the safety valve, not a decoy who stops."**
+
+### Why this only works after the run game is established
+
+GOLD DART has **no value in isolation** — it is entirely borrowed credibility from BLUE SWEEP and GOLD GHOST. A defense that has never seen those plays has no reason to react to the fake, and the play degenerates into a slow-developing pass with no advantage over just calling BLUE BUBBLE. This is also the play that **finally pays off the 5-step IN route** every wide receiver has been running on every single snap since Play 1 (§2, "Wide receiver route"): that route was installed from day one specifically to drag a cornerback in and away from the sweep-and-ghost edge, and as a side effect it happens to be a fully drilled, game-ready route the moment we're ready to throw to it. GOLD DART doesn't ask the receivers to learn anything new — it just finally throws them the ball.
+
+### Honest risk assessment
+
+**This is the hardest play in the book for 6-7 year olds, and it should be treated that way.** It asks a young QB to execute a clean fake, hold a one-look read, throw with timing, and hit a moving target — all inside a 7-second clock — after already succeeding at the much simpler mesh-based fake in GOLD GHOST. **Completion probability is meaningfully lower than BLUE BUBBLE**, which only asks the QB to turn, see a receiver already facing him, and toss it softly a few feet. GOLD DART asks for an actual forward pass, in rhythm, off misdirection.
+
+- **Worth the risk when:** the defense has clearly bought into stopping BLUE SWEEP/GOLD GHOST (corners and hawks crashing hard on run action), we have practice reps on the fake-then-throw timing, and the situation can absorb an incompletion (not 3rd-and-score inside a no-run zone with no downs left).
+- **Not worth the risk when:** it's early in a series with downs to spare, the defense hasn't shown it respects our run game yet, or our QB of the quarter hasn't drilled the timing recently. **When in doubt, just run GOLD GHOST or BLUE SWEEP instead** — a reliable 4 yards beats a low-percentage shot at a bigger gain.
+
+---
+
+## 7. How to Teach These
 
 We only get **one practice per week** (Ref §15), so the order matters. Do not move to the next step until the step before it is boring.
 
@@ -305,25 +411,26 @@ We only get **one practice per week** (Ref §15), so the order matters. Do not m
 1. **The snap — hand-to-hand, under center.** QB's hands pressed up under the Center; Center hikes the ball **up into his hands**, between the legs (Ref §6). Repeat it until it is boring. This is still the first thing we do every practice, but it is now **much lower risk than a shotgun snap** — the ball never leaves anyone's hands, so a dropped snap and the instant dead play that comes with it are close to eliminated. The remaining error is the **QB pulling out early**, so drill "hands stay until you feel it."
 2. **Flags-away running.** Hands off your hips. Flag guarding costs 10 yards and the down (Ref §11).
 3. **STAR alignment.** Whistle → everyone finds their spot with no coach pointing. Time them. Make it a race. **New this season:** drill the two backs' tight split-back spot specifically — practice the first step out of it so the Blue Back and Gold Back never tangle up leaving their spots.
-4. **QB footwork off the snap.** No backs, no defense: snap, secure, **open left**; snap, secure, **open right**; snap, secure, **two steps straight back**. Those three turns cover all three plays. With the backs tight, these turns are now **shorter and quicker** than before — drill the QB to stop his turn at the same shallow depth every time.
+4. **QB footwork off the snap.** No backs, no defense: snap, secure, **open left**; snap, secure, **open right**; snap, secure, **two steps straight back**. Those three turns cover BLUE SWEEP, GOLD GHOST, and BLUE BUBBLE. With the backs tight, these turns are now **shorter and quicker** than before — drill the QB to stop his turn at the same shallow depth every time.
 5. **BLUE SWEEP.** Walk it, jog it, run it — the handoff comes **even earlier** now with the tight backfield, so start slow. Then **GOLD SWEEP** — same play, other cone.
 6. **BLUE BUBBLE.** Teach the motion-and-turn first with **no ball**, then add the QB's two steps back and the soft toss. Add the 7-second count out loud so they feel the clock.
-7. **GOLD GHOST.** Last, because it needs two clean turns and a mesh point, and it needs the defense to already believe BLUE SWEEP. With the tight backfield the two meshes come **quicker and closer together** than before, so this is the play that most rewards the slow, repeatable rehearsal we already do.
+7. **GOLD GHOST.** Needs two clean turns and a mesh point, and it needs the defense to already believe BLUE SWEEP. With the tight backfield the two meshes come **quicker and closer together** than before, so this is the play that most rewards the slow, repeatable rehearsal we already do.
+8. **GOLD DART — installed LAST, only after BLUE SWEEP and GOLD GHOST are reliable and boring.** Do not teach this play until the run game (steps 5 and 7) no longer needs conscious thought from any player. Teach it in stages: first, the QB and both backs walk the **identical GOLD GHOST fake** with no throw at all, until it is genuinely indistinguishable from GOLD GHOST at walking speed. Only then add the plant-and-throw on step 2, and only then add the one-look pre-snap rule (§6, "The throw"). Count the 7-second clock out loud on every rep — fake, plant, throw, by the 3-count — so the timing margin is drilled in from day one, not discovered live in a game.
 
 ### Small reminders for game day
 
 - Every player must be able to run every spot — **players rotate every quarter** (Ref §2).
 - Only **1 coach on the field**, so calls have to be short and fixable from where we stand (Ref §1, §17).
 - **30 seconds to snap** — huddle fast, two words, break (Ref §4).
-- The QB **cannot run** on a normal snap-and-go, and there are **no center sneaks** (Ref §6). Every play here moves the ball by handoff or pass, so we never have to think about it. Being under center does **not** change this — the QB still may not keep it.
-- Under center the QB has his **back to the defense** on turns and sees the rush late; that is fine because rushers start **7 yards off** (Ref §9). He does not look for the rush — he turns and gives the ball.
+- The QB **cannot run** on a normal snap-and-go, and there are **no center sneaks** (Ref §6). Every play here moves the ball by handoff or pass, so we never have to think about it. Being under center does **not** change this — the QB still may not keep it. This includes GOLD DART's fake — the QB fakes, plants, and throws; he never tucks and runs.
+- Under center the QB has his **back to the defense** on turns and sees the rush late; that is fine because rushers start **7 yards off** (Ref §9). He does not look for the rush — he turns and gives the ball (or, on GOLD DART, fakes the give and throws).
 - Ball is spotted **at the carrier's feet** (Ref §10) — reaching the ball forward gains nothing. Just run.
 
 ---
 
-## 7. Starting Base Defense: FORT (Man Coverage)
+## 8. Starting Base Defense: FORT (Man Coverage)
 
-> **We start with FORT.** This is our primary, first-taught defense this season. FENCE (§8) is the alternate zone scheme we teach second, for comparison and for situations where FORT's man matchups get stretched thin. Both defenses stay in the book — see §9 for when to call which.
+> **We start with FORT.** This is our primary, first-taught defense this season. FENCE (§9) is the alternate zone scheme we teach second, for comparison and for situations where FORT's man matchups get stretched thin. Both defenses stay in the book — see §10 for when to call which.
 
 **Six defenders. Six jobs. One job each, and the job is a PERSON, not a patch of grass.** FORT is **man coverage**: one blitzer, two line-of-scrimmage "hawks," two cornerbacks locked onto the wide receivers, and one deep safety. Same alignment on every snap, same way STAR is our only offensive formation (Ref §17: one job per kid, every time, is what this age group can actually execute).
 
@@ -385,7 +492,7 @@ We only get **one practice per week** (Ref §15), so the order matters. Do not m
 
 ### Adjustment rules
 
-- **Offense shows 3+ receivers:** the **SAFETY converts to man on the 3rd receiver**, leaving the deep field open. This is an **explicit, accepted tradeoff at this age** — we would rather have a body on every receiver than a deep defender covering nobody. Coaching note: this is FORT's honest limitation, and it is the main reason we also carry FENCE (§8) for spread-out offenses.
+- **Offense shows 3+ receivers:** the **SAFETY converts to man on the 3rd receiver**, leaving the deep field open. This is an **explicit, accepted tradeoff at this age** — we would rather have a body on every receiver than a deep defender covering nobody. Coaching note: this is FORT's honest limitation, and it is the main reason we also carry FENCE (§9) for spread-out offenses.
 - **Offense shows fewer than 2 WRs:** the **spare CB shifts inside** to help contain the run. **SAFETY always stays home deep**, no matter how few receivers are out — the deep field is never left completely uncovered on purpose.
 
 ### Coaching points and common failure modes
@@ -402,16 +509,17 @@ We only get **one practice per week** (Ref §15), so the order matters. Do not m
 - **One job per kid, six single-sentence assignments** — same teaching philosophy as our one-formation offense (Ref §17), just applied to a person to cover instead of a patch of grass.
 - **The packet permits any number of rushers** (Ref §9) — using exactly one blitzer here is a deliberate simplicity choice, not a rule requirement, same as it is in FENCE.
 
-### How FORT defends our own three plays (for scrimmage use)
+### How FORT defends our own plays (for scrimmage use)
 
 - **BLUE SWEEP / GOLD GHOST (run plays to the edge):** **BLUE HAWK and GOLD HAWK** are exactly where a sweep has to go — they hold the edge without crossing early, then the instant the ball is handed off, the restriction is gone and they can attack (Ref §9). Because HAWKS are tight to the line (not 5 yards deep like FENCE's THIRDS), FORT's man corners tend to defend our own sweeps and ghost fakes tighter than a zone look does — there is less of a seam at the edge for a fast ball carrier to slip through before a defender disengages.
-- **BLUE BUBBLE (pass, motion + short toss):** BLITZ directly tests the QB's two-steps-back-then-throw window inside the 7-second clock (Ref §8). Because **BLUE CB** is locked man-to-man on **BLUE WIDE**, not on the Blue Back running the bubble motion, the corner may not be the first defender to react to the short toss — whichever defender picks up the motion man (often the SAFETY or a HAWK converting late) has to identify and close on him without a natural zone landmark to lean on. This is the one spot where FENCE's zone assignment (§8) reacts a little more naturally than FORT's man rule.
+- **BLUE BUBBLE (pass, motion + short toss):** BLITZ directly tests the QB's two-steps-back-then-throw window inside the 7-second clock (Ref §8). Because **BLUE CB** is locked man-to-man on **BLUE WIDE**, not on the Blue Back running the bubble motion, the corner may not be the first defender to react to the short toss — whichever defender picks up the motion man (often the SAFETY or a HAWK converting late) has to identify and close on him without a natural zone landmark to lean on. This is the one spot where FENCE's zone assignment (§9) reacts a little more naturally than FORT's man rule.
+- **GOLD DART (play-action pass off the sweep/ghost fake):** FORT's man corners stay locked on their receivers regardless of the run fake, so **BLUE CB/GOLD CB** do not bite on backfield action the way a zone defender's eyes might — this makes GOLD DART's primary read (whichever corner the fake pulls off his landmark) less reliable against FORT than against FENCE, since a disciplined man corner is taught to ignore the fake entirely. **BLITZ** is still the biggest threat to the 7-second timing, since he is sprinting from the 7-yard mark the instant the ball is snapped, fake or not.
 
 ---
 
-## 8. Alternate Defense: FENCE (2-3-1 Zone)
+## 9. Alternate Defense: FENCE (2-3-1 Zone)
 
-**Six defenders. Six jobs. One job each — but now the job is a PATCH OF GRASS, not a person.** FENCE is our **alternate** defense, taught second and used to compare against FORT (§7) or to counter spread-out offenses that stress FORT's man coverage. FENCE is a **2-3-1 zone**: 2 line defenders, 3 linebackers (one of whom blitzes), 1 deep safety. Same alignment on every snap, same way STAR is our only offensive formation (Ref §17: one job per kid, every time, is what this age group can actually execute).
+**Six defenders. Six jobs. One job each — but now the job is a PATCH OF GRASS, not a person.** FENCE is our **alternate** defense, taught second and used to compare against FORT (§8) or to counter spread-out offenses that stress FORT's man coverage. FENCE is a **2-3-1 zone**: 2 line defenders, 3 linebackers (one of whom blitzes), 1 deep safety. Same alignment on every snap, same way STAR is our only offensive formation (Ref §17: one job per kid, every time, is what this age group can actually execute).
 
 **The math:** 2 line + 3 linebackers + 1 safety = **6 defenders** — exactly the 6-on-6 roster the packet requires (Ref §1).
 
@@ -419,9 +527,9 @@ We only get **one practice per week** (Ref §15), so the order matters. Do not m
 
 - **Rushers must start a minimum of 7 yards from the line of scrimmage when the ball is snapped** (Ref §9). A **special marker or the referee** marks that 7 yards on the field — we call this the **7-YARD MARK**, and it is the single most important landmark in this defense.
 - **Any number of players can rush the QB** (Ref §9) — the packet does not cap it. We choose **exactly one rusher** (the MIKE) on purpose: one blitzer is one clear job, and constant pressure from a single, well-drilled blitzer is more coachable than a crowd rush.
-- ⚠️ **RULING — the MIKE's depth.** Any blitzer is a rusher under the packet. Therefore the **MIKE cannot line up at a conventional 3-4 yard linebacker depth** — he **must** start **on or behind the 7-yard mark**, exactly like BLITZ does in FORT (§7) (Ref §9). We make this the single most obvious landmark on the field for him: same treatment as FORT's blitzer.
+- ⚠️ **RULING — the MIKE's depth.** Any blitzer is a rusher under the packet. Therefore the **MIKE cannot line up at a conventional 3-4 yard linebacker depth** — he **must** start **on or behind the 7-yard mark**, exactly like BLITZ does in FORT (§8) (Ref §9). We make this the single most obvious landmark on the field for him: same treatment as FORT's blitzer.
 - ⚠️ **RULING — the two outside linebackers (zone thirds).** These two are **NOT rushing the QB** — they are zone defenders. The 7-yard rule in Ref §9 applies **only to rushers**. Non-rushing defenders **may defend at the line of scrimmage, but only until the ball leaves the QB's hands**; once the ball is **handed off**, that restriction ends and everyone may cross (Ref §9, Ref §0.2). So the two outside linebackers are free to play any depth that makes zone sense (we use ~5 yards, deep enough to see the whole field) — they are not required to be at 7 yards, because they are not rushers.
-- ⚠️ **RULING — the "2 rushers on the line of scrimmage."** This phrase is **not legal as a literal rush**: a defender **cannot both start on the line of scrimmage and rush the QB**, because rushers must start 7 yards back (Ref §9). We resolve this the way closest to the intent: the 2 line players are **NOT rushers**. They are **line-of-scrimmage defenders** (same legal role as FORT's "HAWKS," §7) who **hold the line and cannot cross until the ball leaves the QB's hands** (Ref §9, Ref §0.2). Once the ball is snapped and in the QB's hands, they read run/pass at the line; the instant it's handed off, they're free to attack. This gets us "2 defenders sitting right on the line" without committing an illegal rush.
+- ⚠️ **RULING — the "2 rushers on the line of scrimmage."** This phrase is **not legal as a literal rush**: a defender **cannot both start on the line of scrimmage and rush the QB**, because rushers must start 7 yards back (Ref §9). We resolve this the way closest to the intent: the 2 line players are **NOT rushers**. They are **line-of-scrimmage defenders** (same legal role as FORT's "HAWKS," §8) who **hold the line and cannot cross until the ball leaves the QB's hands** (Ref §9, Ref §0.2). Once the ball is snapped and in the QB's hands, they read run/pass at the line; the instant it's handed off, they're free to attack. This gets us "2 defenders sitting right on the line" without committing an illegal rush.
 - **Illegal rushing** (a rusher starting inside the 7-yard marker — this means our MIKE, specifically) costs **10 yards and an automatic first down** (Ref §11) — the single most costly and most avoidable mistake in this defense.
 - **Offsides** (a non-rushing defender — a line defender or a zone linebacker — crossing the line early) costs **5 yards and an automatic first down** (Ref §11).
 - **NO BLOCKING, TACKLING, OR STRIPPING OF THE BALL IS ALLOWED** (Ref §9) — every defender's only real job is **pulling the flag** (Ref §0.2).
@@ -476,13 +584,13 @@ We only get **one practice per week** (Ref §15), so the order matters. Do not m
 
 ### Adjustment rules
 
-- **Offense shows 3+ receivers:** BLUE THIRD and GOLD THIRD still each own their sideline-to-cone box — a zone defense doesn't need extra defenders for extra receivers, since every zone defender pulls the flag of **whoever enters their box**, not a specific jersey. The **SAFETY still owns the deep middle** and does not lock onto a single receiver. *Coaching note: this is one of zone's built-in advantages over FORT's man scheme (§7) — we no longer run out of defenders when the offense spreads us out.*
+- **Offense shows 3+ receivers:** BLUE THIRD and GOLD THIRD still each own their sideline-to-cone box — a zone defense doesn't need extra defenders for extra receivers, since every zone defender pulls the flag of **whoever enters their box**, not a specific jersey. The **SAFETY still owns the deep middle** and does not lock onto a single receiver. *Coaching note: this is one of zone's built-in advantages over FORT's man scheme (§8) — we no longer run out of defenders when the offense spreads us out.*
 - **Offense shows a heavy run look (extra backs, no wides):** **BLUE LINE and GOLD LINE** stay put and hold the edge — they are our first line against the run. **BLUE THIRD and GOLD THIRD** are told explicitly: *"Nobody in your box yet — you can help crash down on the run, but only after the ball is handed off"* (Ref §9: once handed off, all defenders may cross). The **MIKE's blitz** is already attacking downhill through the middle, which is exactly where a heavy run look wants to go.
 - **Near our own goal line:** **SAFETY tightens up** — the deep middle is now much shorter, so the Safety can afford to sit closer to the play without giving up a big pass over the top. **BLUE THIRD and GOLD THIRD tighten their boxes toward the sideline cones** (the field is shorter, so the thirds get smaller too) and **must not let anyone get outside them** — there is no room behind them to recover.
 
 ### Coaching points and common failure modes
 
-- **The MIKE lining up too close.** The single most common and most costly error in this defense — starting inside the 7-yard mark is **illegal rushing: 10 yards and an automatic first down** for the other team (Ref §9, §11). Drill it exactly like a landmark: "toes on or behind the mark, every single snap, no exceptions." Same #1 rule as BLITZ in FORT (§7).
+- **The MIKE lining up too close.** The single most common and most costly error in this defense — starting inside the 7-yard mark is **illegal rushing: 10 yards and an automatic first down** for the other team (Ref §9, §11). Drill it exactly like a landmark: "toes on or behind the mark, every single snap, no exceptions." Same #1 rule as BLITZ in FORT (§8).
 - **Zone defenders drifting out of their third, or chasing the ball instead of guarding grass.** This is the #1 new failure mode with a zone. A BLUE THIRD or GOLD THIRD defender who runs toward the ball (instead of staying in his box until someone enters it) leaves his own third wide open for the very next play. Cue: *"Grass first, ball second. If nobody's in your box, stay in your box."*
 - **Line defenders (BLUE LINE / GOLD LINE) crossing early.** They are not rushers — crossing the line before the ball leaves the QB's hands is **offsides: 5 yards, automatic first down** (Ref §11). Cue: *"Hold your ground until the ball is gone."*
 - **The SAFETY coming up too fast on run action.** The Safety's first read must be pass before he ever helps against the run; jumping run action early is exactly how a team gives up the one deep completion they can't otherwise get to at this age. Cue: *"Pass first. Come down last."*
@@ -494,14 +602,17 @@ We only get **one practice per week** (Ref §15), so the order matters. Do not m
 - **Constant middle pressure exploits the 7-second pass clock** (Ref §8). The MIKE blitzing on every snap means the QB never gets a clean, comfortable pocket — and because the pressure comes from a fixed, legal depth (the 7-yard mark), it is completely repeatable and never risks the illegal-rushing penalty as long as the landmark is respected.
 - **One job per kid, six single-sentence assignments** — same teaching philosophy as our one-formation offense (Ref §17), just applied to zone boxes instead of man matchups.
 
-### How FENCE defends our own three plays (for scrimmage use)
+---
 
-- **BLUE SWEEP / GOLD GHOST (run plays to the edge):** **BLUE LINE and GOLD LINE** are exactly where a sweep has to go — they hold the edge without crossing early, then the instant the ball is handed off, the restriction is gone and they can attack (Ref §9). **This is our defense's honest weak point against our own sweep game:** BLUE THIRD/GOLD THIRD are zone defenders playing ~5 yards deep, not tight to the line, so there is a real gap between the line defender and the zone linebacker on the same side — a fast sweep that turns the corner before the line defender disengages can get into that gap before either the third-defender or the Safety can close. Our own 5-step-IN receiver route makes this worse for an opponent's defense (it's designed to pull a corner inside), but it does **not** fix this gap for us — a zone at this level simply has less beef at the edge than FORT's tight man-corner alignment (§7) does. Coaching answer: BLUE THIRD/GOLD THIRD must **squeeze down** the instant they see an outside run and the MIKE's blitz angle should bend toward ball flow rather than run straight upfield once the ball is out.
-- **BLUE BUBBLE (pass, motion + short toss):** The **MIKE's blitz** directly tests the QB's two-steps-back-then-throw window inside the 7-second clock (Ref §8). **BLUE THIRD** owns the flat where the Blue Back sets up — since it's a zone, BLUE THIRD doesn't need to identify the motion man specifically, just that someone has entered his box, so this matchup is actually **easier** for a zone defense than it is for FORT's man corner (§7) tied to a specific receiver. The **SAFETY** reads pass immediately (QB stepping backward is a pass key) but should not crash forward on the short toss — the deep middle stays his job in case the catch turns into a longer run than expected.
+### How FENCE defends our own plays (for scrimmage use)
+
+- **BLUE SWEEP / GOLD GHOST (run plays to the edge):** **BLUE LINE and GOLD LINE** are exactly where a sweep has to go — they hold the edge without crossing early, then the instant the ball is handed off, the restriction is gone and they can attack (Ref §9). **This is our defense's honest weak point against our own sweep game:** BLUE THIRD/GOLD THIRD are zone defenders playing ~5 yards deep, not tight to the line, so there is a real gap between the line defender and the zone linebacker on the same side — a fast sweep that turns the corner before the line defender disengages can get into that gap before either the third-defender or the Safety can close. Our own 5-step-IN receiver route makes this worse for an opponent's defense (it's designed to pull a corner inside), but it does **not** fix this gap for us — a zone at this level simply has less beef at the edge than FORT's tight man-corner alignment (§8) does. Coaching answer: BLUE THIRD/GOLD THIRD must **squeeze down** the instant they see an outside run and the MIKE's blitz angle should bend toward ball flow rather than run straight upfield once the ball is out.
+- **BLUE BUBBLE (pass, motion + short toss):** The **MIKE's blitz** directly tests the QB's two-steps-back-then-throw window inside the 7-second clock (Ref §8). **BLUE THIRD** owns the flat where the Blue Back sets up — since it's a zone, BLUE THIRD doesn't need to identify the motion man specifically, just that someone has entered his box, so this matchup is actually **easier** for a zone defense than it is for FORT's man corner (§8) tied to a specific receiver. The **SAFETY** reads pass immediately (QB stepping backward is a pass key) but should not crash forward on the short toss — the deep middle stays his job in case the catch turns into a longer run than expected.
+- **GOLD DART (play-action pass off the sweep/ghost fake):** **BLUE THIRD/GOLD THIRD** are the defenders most likely to bite on the run fake, since their job is "read your box and react," and a hard sweep/ghost fake toward their box can pull them up before they see the receiver arriving behind them — this is FENCE's honest vulnerability to play action. The **SAFETY** is the backstop: his rule ("pass first, come down last") is exactly what keeps this from being a explosive play against zone. The **MIKE's** blitz from the 7-yard mark is unaffected by the fake and remains the primary timing threat inside the 7-second clock.
 
 ---
 
-## 9. FORT vs. FENCE — Which to Call
+## 10. FORT vs. FENCE — Which to Call
 
 Both defenses stay in the book all season. They are not a "before and after" — they are two tools for two different situations, and the coach will teach both and compare them in practice.
 
